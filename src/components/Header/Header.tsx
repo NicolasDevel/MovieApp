@@ -1,5 +1,5 @@
 import React from 'react'
-import '../index.css';
+import '../Header/Header.css'
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import{faBars, faCaretDown,faSearch, faUserPlus} from '@fortawesome/free-solid-svg-icons';
 function Header(){
